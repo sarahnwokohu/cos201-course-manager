@@ -1,0 +1,2 @@
+COS201,Java Programming I,3
+COS205,Introduction To JavaScript,3
